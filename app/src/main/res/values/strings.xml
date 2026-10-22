@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">el.doctor</string>
+    <string name="network_brand">شبكة el.doctor</string>
+    <string name="hotspot_title">بوابة الإنترنت - مايكروتك</string>
+    <string name="status_page">صفحة الحالة (Status)</string>
+    <string name="login_page">تسجيل الدخول (Login)</string>
+    <string name="logout_page">تسجيل الخروج (Logout)</string>
+    <string name="check_quota">متابعة الجيجات والرصيد</string>
+    <string name="refresh">تحديث</string>
+    <string name="gateway_ip">عنوان السيرفر / الراوتر</string>
+    <string name="auto_detect">اكتشاف تلقائي للبوابة</string>
+    <string name="open_in_browser">فتح في المتصفح الخارجي</string>
+    <string name="saved_cards">كروت الإنترنت المحفوظة</string>
+    <string name="add_card">إضافة كرت جديد</string>
+    <string name="card_code">كود الكرت / اسم المستخدم</string>
+    <string name="card_password">كلمة المرور (اختياري)</string>
+    <string name="card_quota">قيمة الكرت (جيجا)</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="copy">نسخ</string>
+    <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
+    <string name="connection_status">حالة الاتصال</string>
+    <string name="connected">متصل بالشبكة</string>
+    <string name="disconnected">غير متصل بالواي فاي</string>
+    <string name="remaining_bytes">الرصيد المتبقي</string>
+    <string name="bytes_in">التحميل (Download)</string>
+    <string name="bytes_out">الرفع (Upload)</string>
+    <string name="uptime">مدة الاتصال</string>
+    <string name="user_ip">عنوان IP</string>
+    <string name="mac_address">عنوان MAC</string>
+    <string name="settings">الإعدادات</string>
+    <string name="help_support">الدعم الفني والخدمة</string>
+</resources>

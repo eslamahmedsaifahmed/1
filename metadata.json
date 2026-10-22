@@ -1,0 +1,8 @@
+{
+  "name": "el.doctor",
+  "description": "تطبيق شبكة el.doctor لمتابعة استهلاك جيجات هوت سبوت مايكروتك، صفحة الحالة، وإدارة كروت الإنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
